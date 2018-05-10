@@ -1,0 +1,30 @@
+body{
+	background-image: url(../images/theme.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin:0;
+	padding:0; 
+}
+
+
+.qutular{
+	width: 600px;
+	height: 400px;
+	/*background: red;*/
+	position: absolute;
+	top: 150px;
+	left: 400px;
+}
+
+button{
+	margin:5px;
+	background: rgba(0,0,0, 0.8);	
+	box-shadow: 5px 8px rgba(0,0,0, 0.4);
+	border-radius: 30px;
+}
+
+img{
+	width: 150px;
+	height: 150px;
+	border-radius: 20px;	
+}
